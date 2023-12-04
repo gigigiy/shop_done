@@ -39,15 +39,5 @@ public class App extends Application {
         return this.window;
     }
 
-//    private void makeDraggable(Parent root) {
-//        root.setOnMousePressed(e -> {
-//            xOffset = e.getSceneX();
-//            yOffset = e.getSceneY();
-//        });
-//
-//        root.setOnMouseDragged(e -> {
-//            window.setX(e.getScreenX() - xOffset);
-//            window.setY(e.getScreenY() - yOffset);
-//        });
 
     }
